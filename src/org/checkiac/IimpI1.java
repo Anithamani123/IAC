@@ -1,6 +1,8 @@
 package org.checkiac;
 
-public interface IimpI1 {
-void check();
-
+public class IimpI1 {
+void check()
+{
+System.out.println("Tc1");
+}
 }
