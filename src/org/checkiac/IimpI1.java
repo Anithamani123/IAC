@@ -1,6 +1,10 @@
 package org.checkiac;
 
 public class IimpI1 {
+	void new2()
+	{
+	System.out.println("new2 Tc");
+	}
 	void new1()
 	{
 	System.out.println("new Tc");
